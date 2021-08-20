@@ -1,0 +1,14 @@
+C:\Users\matth\OneDrive\Desktop\MRodriguezACP2_1\bin\Debug\MRodriguezACP2_1.exe.config
+C:\Users\matth\OneDrive\Desktop\MRodriguezACP2_1\bin\Debug\MRodriguezACP2_1.exe
+C:\Users\matth\OneDrive\Desktop\MRodriguezACP2_1\bin\Debug\MRodriguezACP2_1.pdb
+C:\Users\matth\OneDrive\Desktop\MRodriguezACP2_1\obj\Debug\MRodriguezACP2_1.csprojAssemblyReference.cache
+C:\Users\matth\OneDrive\Desktop\MRodriguezACP2_1\obj\Debug\MRodriguezACP2_1.frmAbout.resources
+C:\Users\matth\OneDrive\Desktop\MRodriguezACP2_1\obj\Debug\MRodriguezACP2_1.frmInputOutput.resources
+C:\Users\matth\OneDrive\Desktop\MRodriguezACP2_1\obj\Debug\MRodriguezACP2_1.frmMain.resources
+C:\Users\matth\OneDrive\Desktop\MRodriguezACP2_1\obj\Debug\MRodriguezACP2_1.frmMouser.resources
+C:\Users\matth\OneDrive\Desktop\MRodriguezACP2_1\obj\Debug\MRodriguezACP2_1.frmSplashScreen.resources
+C:\Users\matth\OneDrive\Desktop\MRodriguezACP2_1\obj\Debug\MRodriguezACP2_1.Properties.Resources.resources
+C:\Users\matth\OneDrive\Desktop\MRodriguezACP2_1\obj\Debug\MRodriguezACP2_1.csproj.GenerateResource.cache
+C:\Users\matth\OneDrive\Desktop\MRodriguezACP2_1\obj\Debug\MRodriguezACP2_1.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\MRodriguezACP2_1\obj\Debug\MRodriguezACP2_1.exe
+C:\Users\matth\OneDrive\Desktop\MRodriguezACP2_1\obj\Debug\MRodriguezACP2_1.pdb
